@@ -1,0 +1,26 @@
+{
+    "name": "LanguagePack",
+    "alias": "languagepack",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 2,
+    "providers": [
+        "Modules\\LanguagePack\\Providers\\LanguagePackServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ],
+    "permissions": [
+
+    ],
+    "roles_permissions": {
+        "admin": [
+
+        ],
+        "manager": [
+
+        ]
+    }
+}
